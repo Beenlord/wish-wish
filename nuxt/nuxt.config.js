@@ -3,7 +3,7 @@ import pkg from './package.json';
 export default defineNuxtConfig({
     app: {
         head: {
-            title: pkg.name,
+            title: 'W!SH ~ Project',
         },
     },
     devtools: {
