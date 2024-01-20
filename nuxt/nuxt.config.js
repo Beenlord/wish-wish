@@ -6,6 +6,9 @@ export default defineNuxtConfig({
             title: 'W!SH ~ Project',
         },
     },
+    css: [
+        '@/assets/style/global.scss',
+    ],
     devtools: {
         enabled: true,
     },
