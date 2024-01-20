@@ -1,1 +1,3 @@
-# wish-wish
+# W!SH-W!SH 💖
+
+> Some description about this project...
