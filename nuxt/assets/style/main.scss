@@ -1,10 +1,17 @@
-@import "tools/mixins";
+@import "staff/fonts";
 @import "staff/colors";
+@import "staff/vars";
+
+@import "library/library";
 
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+}
+
+:root {
+  font-family: 'Gilroy';
 }
 
 html,

@@ -4,8 +4,8 @@
 	</div>
 </template>
 
-<style lang="scss">
-@import "@/assets/style/tools/mixins.scss";
+<style lang="scss" scoped>
+ @import "@/assets/style/library/library.scss";
 
 .app-layout {
 	@include fill-inside();
