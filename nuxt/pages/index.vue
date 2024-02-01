@@ -1,6 +1,6 @@
 <template>
 	<div class="index-page">
-		<h1>Hello World!</h1>
+		<Header />
 	</div>
 </template>
 
