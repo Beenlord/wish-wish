@@ -1,3 +1,1 @@
-# W!SH-W!SH 💖
-
-> Some description about this project...
+# W_W
