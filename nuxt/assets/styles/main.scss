@@ -1,0 +1,20 @@
+@import 'reset-css';
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  display: block;
+}
+
+:root {
+  --color-light: #F4F4F4;
+  --color-dark: #212121;
+
+  --r-top: 38px;
+  --r-left: 24px;
+  --r-right: 24px;
+}
